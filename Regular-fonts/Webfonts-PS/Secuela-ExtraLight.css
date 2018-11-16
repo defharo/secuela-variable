@@ -1,0 +1,9 @@
+/* Webfont: Secuela-ExtraLight */@font-face {
+    font-family: 'SecuelaExtLt';
+    src: url('Secuela-ExtraLight.woff2') format('woff2'), /* Modern Browsers */
+         url('Secuela-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
