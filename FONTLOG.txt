@@ -2,6 +2,8 @@
 This file provides detailed information on the Secuela Font Software.
 This information should be distributed along with the Secuela fonts and any derivative works.
 
+Available weights: ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black.
+
 Thank you for downloading Secuela!
 
 Brief copyright information:
