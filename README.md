@@ -17,6 +17,10 @@ Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle 
 
 **Requirements for editing:** *Fontlab 5, FontLab VI, UFO*
 
+### ChangeLog:
+* 15 November 2018 - v.1.704
+*Initial release of "Secuela"*
+
 ![secuela-variable](/docs/Specimen-Secuela.png)
 
 
