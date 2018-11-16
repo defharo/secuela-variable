@@ -10,6 +10,8 @@ I intend to expand the table of characters to add the Greek alphabet and Cyrilli
 
 I have included, in the fonts and in the sources, both the individual versions (16 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
 
+* [Secuela Character Set](/Specimen-Secuela.pdf)
+
 ## THANK YOU FOR DOWNLOAD!
 
 ### OPEN TYPE FEATURES:
@@ -23,6 +25,7 @@ Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle 
 
 ![secuela-variable](/docs/Specimen-Secuela.png)
 
+* [Secuela FL Report Glyphs](/docs/FL-Report-Secuela-Extra-Light.pdf)
 
 **License:**
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
