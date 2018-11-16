@@ -1,0 +1,11 @@
+/* Webfont: Secuela-Black */@font-face {
+    font-family: 'SecuelaBlack';
+    src: url('Secuela-Black.eot'); /* IE9 Compat Modes */
+    src: url('Secuela-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Secuela-Black.woff') format('woff'), /* Modern Browsers */
+         url('Secuela-Black.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
