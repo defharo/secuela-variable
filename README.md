@@ -8,10 +8,14 @@ The styles in italics have lowercase letters of their own and some capital lette
 
 I intend to expand the table of characters to add the Greek alphabet and Cyrillic. I appreciate any kind of collaboration and comments to improve this typographic family.
 
-OPEN TYPE FEATURES:
+### OPEN TYPE FEATURES:
 Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle Figures, Extended Fractions, All Alternates, Small Capitals, Denominators, Alternate Annotation Forms, Capital Spacing, Discretionary Ligatures, Small Capitals From Capitals, Superscript, Slashed Zero, Localized Forms, Fractions, Historical Forms,  Numerators, Optical Size, Ordinals, Scientific Inferiors.
 
-Requirements:
-Fontlab 5
-FontLab VI
-UFO
+### Requirements:
+* Fontlab 5
+* FontLab VI
+* UFO
+
+![secuela-variable](/docs/Specimen-Secuela.png)
+
+
