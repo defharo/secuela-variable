@@ -1,4 +1,4 @@
-# secuela-variable
+# Secuela Variable Font - OFL 1.1
 
 Secuela is a family of 16 condensed fonts (OFL) Sans Serif of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
 
