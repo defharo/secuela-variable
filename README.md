@@ -8,16 +8,26 @@ The styles in italics have lowercase letters of their own and some capital lette
 
 I intend to expand the table of characters to add the Greek alphabet and Cyrillic. I appreciate any kind of collaboration and comments to improve this typographic family.
 
-### THANK YOU FOR DOWNLOAD!
+I have included, in the fonts and in the sources, both the individual versions (16 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
+
+## THANK YOU FOR DOWNLOAD!
 
 ### OPEN TYPE FEATURES:
 Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle Figures, Extended Fractions, All Alternates, Small Capitals, Denominators, Alternate Annotation Forms, Capital Spacing, Discretionary Ligatures, Small Capitals From Capitals, Superscript, Slashed Zero, Localized Forms, Fractions, Historical Forms,  Numerators, Optical Size, Ordinals, Scientific Inferiors.
 
-### Requirements:
+### Requirements for editing:
 * Fontlab 5
 * FontLab VI
 * UFO
 
 ![secuela-variable](/docs/Specimen-Secuela.png)
 
+
+License
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+Copyright
+Copyright (c) 2018, Fernando Haro (defharo@gmail.com), with Reserved Font Name "Secuela".
+
+[Paypal donation page](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HNZ5ZEQ67CK8&source=url)
 
