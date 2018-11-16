@@ -1,0 +1,31 @@
+	FONTLOG for Secuela:
+This file provides detailed information on the Secuela Font Software.
+This information should be distributed along with the Secuela fonts and any derivative works.
+
+Thank you for downloading Secuela!
+
+Brief copyright information:
+
+Secuela is free for personal use, AND commercial use.
+
+Secuela is licensed under the SIL Open Font License, Version 1.1.
+http://scripts.sil.org/OFL
+This is the standard license of open source fonts and has very few restrictions. Read the "OFL" file included in the Secuela folder for detailed information on the license.  
+
+If you still have questions or comments, you are more than welcome to write to my email: defharo@gmail.com
+
+
+	ChangeLog:
+Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
+
+15. November 2018 - v.1.704
+- Initial release of font family "Secuela" 
+
+
+	Acknowledgements
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D). This list is sorted by last name in alphabetical order.
+
+N: Fernando Haro
+E: defharo@gmail.com
+W: https://defharo.com
+D: Self-made Type & Graphic designer.
