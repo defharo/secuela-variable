@@ -15,19 +15,16 @@ I have included, in the fonts and in the sources, both the individual versions (
 ### OPEN TYPE FEATURES:
 Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle Figures, Extended Fractions, All Alternates, Small Capitals, Denominators, Alternate Annotation Forms, Capital Spacing, Discretionary Ligatures, Small Capitals From Capitals, Superscript, Slashed Zero, Localized Forms, Fractions, Historical Forms,  Numerators, Optical Size, Ordinals, Scientific Inferiors.
 
-### Requirements for editing:
-* Fontlab 5
-* FontLab VI
-* UFO
+**Requirements for editing:** *Fontlab 5, FontLab VI, UFO*
 
 ![secuela-variable](/docs/Specimen-Secuela.png)
 
 
-License
+**License:**
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
-Copyright
 Copyright (c) 2018, Fernando Haro (defharo@gmail.com), with Reserved Font Name "Secuela".
 
+### Donate
 [Paypal donation page](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HNZ5ZEQ67CK8&source=url)
 
