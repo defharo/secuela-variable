@@ -1,6 +1,6 @@
 # Secuela Variable Font - OFL 1.1
 
-Secuela is a new family of 16 condensed fonts (OFL) Sans Serif of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
+Secuela is my new typeface Variable (8 standard weights), Sans serif and condensed (Regular & Italics) with OFL license, of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
 
 The typography has 704 glyphs (Latin Extended-A) with capital letters in small caps, advanced OpenType functions, several number games, the Bitcoin symbol and a meticulous configuration of metrics and Kerning.
 
