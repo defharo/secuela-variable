@@ -33,7 +33,7 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 ##### 15 November 2018 - v.1.704
 - *Initial release of "Secuela"*
 
-![secuela-variable](/docs/Specimen-Secuela.png)
+![secuela-variable](/docs/Specimen-Secuela707.png)
 
 * [Secuela FL Report Glyphs](/docs/FL-Report-Secuela-Extra-Light.pdf)
 
