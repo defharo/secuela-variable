@@ -2,7 +2,7 @@
 This file provides detailed information on the Secuela Font Software.
 This information should be distributed along with the Secuela fonts and any derivative works.
 
-Available weights: ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black.
+Available weights: Light, Regular, Medium, SemiBold, Bold, ExtraBold.
 
 Thank you for downloading Secuela!
 
@@ -20,8 +20,15 @@ If you still have questions or comments, you are more than welcome to write to m
 	ChangeLog:
 Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
 
-15. November 2018 - v.1.704
-- Initial release of font family "Secuela" 
+- 18 November 2018 - v.1.707 - Regular & Italics
+	Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
+	Modification of the design of the characters: a, ae
+	New glyphs: IJ (0132), ij (0133), longs_t (FB05)
+	Modification of the character: germandbls (00DF)
+	Reduction of the sidebaring space in the ExtraBold version
+
+- 15 November 2018 - v.1.704
+	Initial release of "Secuela"
 
 
 	Acknowledgements
