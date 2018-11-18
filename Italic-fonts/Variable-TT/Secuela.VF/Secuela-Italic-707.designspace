@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+ <axes>
+  <axis name="weight" maximum="800" minimum="300" default="800" tag="wght">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/Secuela-ExtraBoldItalic.ufo" name="ExtraBoldItalic" stylename="ExtraBoldItalic" familyname="Secuela">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </source>
+  <source filename="masters/Secuela-LightItalic.ufo" name="LightItalic" stylename="LightItalic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance filename="instances/Secuela-LightItalic.ufo" name="Light Italic" stylename="Light Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance filename="instances/Secuela-Italic.ufo" name="Italic" stylename="Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance filename="instances/Secuela-MediumItalic.ufo" name="Medium Italic" stylename="Medium Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance filename="instances/Secuela-SemiBoldItalic.ufo" name="Semi Bold Italic" stylename="Semi Bold Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance filename="instances/Secuela-BoldItalic.ufo" name="Bold Italic" stylename="Bold Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance filename="instances/Secuela-ExtraBoldItalic.ufo" name="Extra Bold Italic" stylename="Extra Bold Italic" familyname="Secuela">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
