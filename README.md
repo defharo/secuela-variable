@@ -29,6 +29,7 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 - New glyphs: IJ (0132), ij (0133), longs_t (FB05)
 - Modification of the character: germandbls (00DF)
 - Reduction of the sidebaring space in the ExtraBold version
+- Reduction of the standard weights in the variable font, from 8 to 6
 
 ##### 15 November 2018 - v.1.704
 - *Initial release of "Secuela"*
