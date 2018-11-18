@@ -1,8 +1,8 @@
 # Secuela Variable Font - OFL 1.1 - 2018
 
-Secuela is my new **Variable Typeface** (8 standard weights), Sans serif and condensed **(Regular & Italics)** with OFL license, of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
+Secuela is my new **Variable Typeface** (6 standard weights), Sans serif and condensed **(Regular & Italics)** with OFL license, of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
 
-The typography has 704 glyphs (Latin Extended-A) with capital letters in small caps, advanced OpenType functions, several number games, the Bitcoin symbol and a meticulous configuration of metrics and Kerning.
+The typography has 707 glyphs (Latin Extended-A) with capital letters in small caps, advanced OpenType functions, several number games, the Bitcoin symbol and a meticulous configuration of metrics and Kerning.
 
 The styles in italics have lowercase letters of their own and some capital letters, as well as multiple optical corrections to correct the deformations produced by the 8-degree inclination.
 
@@ -18,13 +18,20 @@ I have included, in the fonts and in the sources, both the individual versions (
 Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle Figures, Extended Fractions, All Alternates, Small Capitals, Denominators, Alternate Annotation Forms, Capital Spacing, Discretionary Ligatures, Small Capitals From Capitals, Superscript, Slashed Zero, Localized Forms, Fractions, Historical Forms,  Numerators, Optical Size, Ordinals, Scientific Inferiors.
 
 **Available standar weights**
-ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black.
+Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
-**Requirements for editing:** *Fontlab 5, FontLab VI, UFO*
+**Requirements for editing:** *FontLab VI, Fontlab 5*
 
 ### ChangeLog:
-* 15 November 2018 - v.1.704
-*Initial release of "Secuela"*
+##### 18 November 2018 - v.1.707 - Regular & Italics
+- Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
+- Modification of the design of the characters: a, ae
+- New glyphs: IJ (0132), ij (0133), longs_t (FB05)
+- Modification of the character: germandbls (00DF)
+- Reduction of the sidebaring space in the ExtraBold version
+
+##### 15 November 2018 - v.1.704
+- *Initial release of "Secuela"*
 
 ![secuela-variable](/docs/Specimen-Secuela.png)
 
