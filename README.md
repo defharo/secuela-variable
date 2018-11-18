@@ -41,7 +41,7 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 **License:**
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
-Copyright (c) 2018, Fernando Haro (defharo@gmail.com), with Reserved Font Name "Secuela".
+Copyright (c) 2018, Fernando Haro (defharo@gmail.com).
 
 ### Donate
 [Paypal donation page](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HNZ5ZEQ67CK8&source=url)
