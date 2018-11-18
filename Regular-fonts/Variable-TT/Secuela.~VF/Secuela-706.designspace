@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+ <axes>
+  <axis name="weight" minimum="300" default="300" tag="wght" maximum="800">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Secuela" name="Light" stylename="Light" filename="masters/Secuela-Light.ufo">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </source>
+  <source familyname="Secuela" name="ExtraBold" stylename="ExtraBold" filename="masters/Secuela-ExtraBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance familyname="Secuela" name="Light" stylename="Light" filename="instances/Secuela-Light.ufo">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance familyname="Secuela" name="Regular" stylename="Regular" filename="instances/Secuela-Regular.ufo">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Secuela" name="Medium" stylename="Medium" filename="instances/Secuela-Medium.ufo">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance familyname="Secuela" name="Semi Bold" stylename="Semi Bold" filename="instances/Secuela-SemiBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance familyname="Secuela" name="Bold" stylename="Bold" filename="instances/Secuela-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance familyname="Secuela" name="Extra Bold" stylename="Extra Bold" filename="instances/Secuela-ExtraBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
