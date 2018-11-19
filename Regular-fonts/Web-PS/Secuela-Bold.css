@@ -1,0 +1,9 @@
+/* Webfont: Secuela-Bold */@font-face {
+    font-family: 'Secuela';
+    src: url('Secuela-Bold.woff2') format('woff2'), /* Modern Browsers */
+         url('Secuela-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
