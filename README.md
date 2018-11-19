@@ -22,6 +22,8 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 **Requirements for editing:** *FontLab VI, Fontlab 5*
 
+![secuela-variable](/docs/Specimen-Secuela.png)
+
 ### ChangeLog:
 
 ##### 19 November 2018 - v.1.708 - Regular & Italics
@@ -41,8 +43,6 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ##### 15 November 2018 - v.1.704
 - *Initial release of "Secuela"*
-
-![secuela-variable](/docs/Specimen-Secuela.png)
 
 * [Secuela FL Report Glyphs](/docs/FL-Report-Secuela-Extra-Light.pdf)
 
