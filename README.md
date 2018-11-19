@@ -8,7 +8,7 @@ The styles in italics have lowercase letters of their own and some capital lette
 
 I intend to expand the table of characters to add the Greek alphabet and Cyrillic. I appreciate any kind of collaboration and comments to improve this typographic family.
 
-I have included, in the fonts and in the sources, both the individual versions (12 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
+I have included, in the fonts both the individual versions (12 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
 
 * [Secuela Character Set](/Specimen-Secuela.pdf)
 
