@@ -2,13 +2,13 @@
 
 Secuela is my new **Variable Typeface** (6 standard weights), Sans serif and condensed **(Regular & Italics)** with OFL license, of geometric construction and neo-Gothic style with short descenders and a humanistic finish in the curves to avoid the coldness of purely grotesque typographies, evoking a feeling of warmth and personality , which results in a friendly and very readable typography, is specially drawn for the composition of any text, signage or headlines, both for printing and for screen.
 
-The typography has 707 glyphs (Latin Extended-A) with capital letters in small caps, advanced OpenType functions, several number games, the Bitcoin symbol and a meticulous configuration of metrics and Kerning.
+The typography has 708 glyphs (Latin Extended-A) with capital letters in small caps, advanced OpenType functions, several number games, the Bitcoin symbol and a meticulous configuration of metrics and Kerning.
 
 The styles in italics have lowercase letters of their own and some capital letters, as well as multiple optical corrections to correct the deformations produced by the 8-degree inclination.
 
 I intend to expand the table of characters to add the Greek alphabet and Cyrillic. I appreciate any kind of collaboration and comments to improve this typographic family.
 
-I have included, in the fonts and in the sources, both the individual versions (16 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
+I have included, in the fonts and in the sources, both the individual versions (12 styles) and the variable versions (Regular & Italic) compatible with Adobe CC 2018.
 
 * [Secuela Character Set](/Specimen-Secuela.pdf)
 
@@ -29,6 +29,7 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 - Added the glyph in small caps for Maltese language: Hbar.sc
 - Slight increase in the height of the small caps.
 - Kerning settings.
+- Added two sheets in the PDF Specimen with text tests in different sizes to test the spacing, kerning and typographic stain.
 
 ##### 18 November 2018 - v.1.707 - Regular & Italics
 - Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc

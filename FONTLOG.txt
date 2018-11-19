@@ -25,6 +25,7 @@ Please list both major and minor changes made to Secuela here (in case of deriva
 	Added the glyph in small caps for Maltese language: Hbar.sc
 	Slight increase in the height of the small caps.
 	Kerning settings.
+	Added two sheets in the PDF Specimen with text tests in different sizes to test the spacing, kerning and typographic stain.
 
 - 18 November 2018 - v.1.707 - Regular & Italics
 	Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
