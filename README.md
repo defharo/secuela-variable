@@ -24,7 +24,7 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ### ChangeLog:
 
-#####19 November 2018 - v.1.708 - Regular & Italics
+##### 19 November 2018 - v.1.708 - Regular & Italics
 - Optical corrections in several characters, mainly those with oblique lines.
 - Added the glyph in small caps for Maltese language: Hbar.sc
 - Slight increase in the height of the small caps.
