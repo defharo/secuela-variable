@@ -20,6 +20,12 @@ If you still have questions or comments, you are more than welcome to write to m
 	ChangeLog:
 Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
 
+- 19 November 2018 - v.1.708 - Regular & Italics
+	Optical corrections in several characters, mainly those with oblique lines.
+	Added the glyph in small caps for Maltese language: Hbar.sc
+	Slight increase in the height of the small caps.
+	Kerning settings.
+
 - 18 November 2018 - v.1.707 - Regular & Italics
 	Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
 	Modification of the design of the characters: a, ae

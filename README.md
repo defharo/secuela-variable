@@ -23,6 +23,13 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 **Requirements for editing:** *FontLab VI, Fontlab 5*
 
 ### ChangeLog:
+
+#####19 November 2018 - v.1.708 - Regular & Italics
+- Optical corrections in several characters, mainly those with oblique lines.
+- Added the glyph in small caps for Maltese language: Hbar.sc
+- Slight increase in the height of the small caps.
+- Kerning settings.
+
 ##### 18 November 2018 - v.1.707 - Regular & Italics
 - Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
 - Modification of the design of the characters: a, ae
@@ -34,15 +41,14 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 ##### 15 November 2018 - v.1.704
 - *Initial release of "Secuela"*
 
-![secuela-variable](/docs/Specimen-Secuela707.png)
+![secuela-variable](/docs/Specimen-Secuela.png)
 
 * [Secuela FL Report Glyphs](/docs/FL-Report-Secuela-Extra-Light.pdf)
 
 **License:**
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
-Copyright (c) 2018, Fernando Haro (defharo@gmail.com), with Reserved Font Name "Secuela".
+Copyright (c) 2018, Fernando Haro (defharo@gmail.com).
 
 ### Donate
 [Paypal donation page](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HNZ5ZEQ67CK8&source=url)
-
