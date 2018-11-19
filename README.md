@@ -26,6 +26,12 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ### ChangeLog:
 
+##### 20 november 2018 - v.1.708;rl1001
+- Optimization to all the characters with Bar.
+- Fix metrics partialdiff (U+2202)
+- Fix comma in gcommaaccent (U+0123)
+- Optical corrections in multiple characters.
+
 ##### 19 November 2018 - v.1.708 - Regular & Italics
 - Optical corrections in several characters, mainly those with oblique lines.
 - Added the glyph in small caps for Maltese language: Hbar.sc
@@ -36,8 +42,8 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 ##### 18 November 2018 - v.1.707 - Regular & Italics
 - Modification of the curves in the characters: S, s, S.sc, e, u, m, n, c_t, c, C.sc
 - Modification of the design of the characters: a, ae
-- New glyphs: IJ (0132), ij (0133), longs_t (FB05)
-- Modification of the character: germandbls (00DF)
+- New glyphs: IJ (U+0132), ij (U+0133), longs_t (U+FB05)
+- Modification of the character: germandbls (U+00DF)
 - Reduction of the sidebaring space in the ExtraBold version
 - Reduction of the standard weights in the variable font, from 8 to 6
 

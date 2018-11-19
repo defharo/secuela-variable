@@ -1,9 +1,0 @@
-/* Webfont: Secuela-Regular */@font-face {
-    font-family: 'Secuela';
-    src: url('Secuela-Regular.woff2') format('woff2'), /* Modern Browsers */
-         url('Secuela-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-
