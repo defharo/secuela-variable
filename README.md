@@ -28,9 +28,10 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ##### Update v1.708;rl1002
 - Fixed the Hinting PS
-- Added Regular True Type versions with TTFAutohint
-- Add editable regular version in optimized for TTFAutohint
-- Add editable regular & italic version OTF - Hinting PS 
+- Added True Type font versions with TTFAutohint
+- Add editable versions optimized for TTFAutohint
+- Add editable versions OTF - Hinting PS 
+- Added editable separate OTF / TTF files for Fontlab 5
 
 ##### 20 november 2018 - v.1.708;rl1001
 - Optimization to all the characters with Bar.
