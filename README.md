@@ -26,6 +26,10 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ### ChangeLog:
 
+##### Update v1.708;rl1002
+- Fixed the Hinting PS
+- Added Regular True Type versions with TTFAutohint
+
 ##### 20 november 2018 - v.1.708;rl1001
 - Optimization to all the characters with Bar.
 - Fix metrics partialdiff (U+2202)
