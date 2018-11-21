@@ -26,14 +26,18 @@ Light, Regular, Medium, SemiBold, Bold, ExtraBold
 
 ### ChangeLog:
 
-##### Update v1.708;rl1002
+##### Update v1.708;rv1003
+- Add ink traps in critical characters.
+- Improve dimensions and hinting.
+
+##### Update v1.708;rv1002
 - Fixed the Hinting PS
 - Added True Type font versions with TTFAutohint
 - Add editable versions optimized for TTFAutohint
 - Add editable versions OTF - Hinting PS 
 - Added editable separate OTF / TTF files for Fontlab 5
 
-##### 20 november 2018 - v.1.708;rl1001
+##### 20 november 2018 - v.1.708;rv1001
 - Optimization to all the characters with Bar.
 - Fix metrics partialdiff (U+2202)
 - Fix comma in gcommaaccent (U+0123)

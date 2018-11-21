@@ -20,7 +20,11 @@ If you still have questions or comments, you are more than welcome to write to m
 	ChangeLog:
 Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
 
-Update v1.708;rl1002
+Update v1.708;rv1003
+	Add ink traps in critical characters.
+	Improve dimensions and hinting.
+
+Update v1.708;rv1002
 	Fixed the Hinting PS
 	Added True Type font versions with TTFAutohint
 	Add editable versions optimized for TTFAutohint
@@ -28,7 +32,7 @@ Update v1.708;rl1002
 	Added editable separate OTF / TTF files for Fontlab 5
 
 
-- 20 november 2018 - v.1.708;rl1001
+- 20 november 2018 - v.1.708;rv1001
 	Optimization to all the characters with Bar.
 	Fix metrics partialdiff (U+2202)
 	Fix comma in gcommaaccent (U+0123)
