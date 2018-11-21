@@ -1,0 +1,11 @@
+/* Webfont: Secuela-Italic */@font-face {
+    font-family: 'Secuela';
+    src: url('Secuela-Italic.eot'); /* IE9 Compat Modes */
+    src: url('Secuela-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Secuela-Italic.woff') format('woff'), /* Modern Browsers */
+         url('Secuela-Italic.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
