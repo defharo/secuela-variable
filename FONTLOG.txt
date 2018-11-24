@@ -36,7 +36,7 @@ Update v1.787
 	Rectilinear modification of / ampersand tail
 	Adjustment and alignment of the shoulder of the letter /r
 	Adjustment of curves and alignment of the letter /a italic versión
-	Ajustes en la letra /g
+	Adjustment /g character.
 	Redraw of all small numbers: superscript, numerators, denominators, and subscript
 	Redraw of all small lowercase letters.
 	Added inferior glyphs: 
