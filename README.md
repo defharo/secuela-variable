@@ -14,6 +14,8 @@ I have included, in the fonts both the individual versions (12 styles) and the v
 
 ## THANK YOU FOR DOWNLOAD!
 
+![secuela-variable](/docs/Specimen-Secuela.png)
+
 ### OPEN TYPE FEATURES:
 Inferiors, Standard Ligatures, Subscript, Superior letters, Superiors, Oldstyle Figures, Extended Fractions, All Alternates, Small Capitals, Denominators, Alternate Annotation Forms, Capital Spacing, Discretionary Ligatures, Small Capitals From Capitals, Superscript, Slashed Zero, Localized Forms, Fractions, Historical Forms,  Numerators, Optical Size, Ordinals, Scientific Inferiors.
 
@@ -22,7 +24,6 @@ Light, Regular, Medium, Bold, ExtraBold
 
 **Requirements for editing:** *FontLab VI, Fontlab 5*
 
-![secuela-variable](/docs/Specimen-Secuela.png)
 
 ### ChangeLog:
 ChangeLog:
