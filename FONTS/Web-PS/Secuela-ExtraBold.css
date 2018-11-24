@@ -1,9 +1,0 @@
-/* Webfont: Secuela-ExtraBold */@font-face {
-    font-family: 'SecuelaExtBd';
-    src: url('Secuela-ExtraBold.woff2') format('woff2'), /* Modern Browsers */
-         url('Secuela-ExtraBold.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-
