@@ -29,7 +29,7 @@ Light, Regular, Medium, Bold, ExtraBold
 ChangeLog:
 Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
 
-##### Update v1.787
+##### 24 november 2018 - Update v1.787
 	
 - Redefinition of the standard weights, now one less, to better appreciate the contrast between them.
 - The letter /W tilt was corrected for a more condensed appearance.
