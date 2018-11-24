@@ -19,7 +19,40 @@ If you still have questions or comments, you are more than welcome to write to m
 
 	ChangeLog:
 Please list both major and minor changes made to Secuela here (in case of derivative works) - most recent first.
-
+Update v1.787
+	
+	Redefinition of the standard weights, now one less, to better appreciate the contrast between them.
+	The letter /W tilt was corrected for a more condensed appearance.
+	Homogenized the upper curve of the letters /a,/o,/e
+	Correction of the blank space on the right in the letter /Æ and kerning
+	Redrawing the letters /æ /œ in the Roman version
+	Adjustment of the width of the letters /O,/G,/C,/D
+	Change in the height of the crossbar of the letter /G
+	Solution in the tail of the letter Q for heavier styles
+	Unicode correction, hsuperior (U + 02B0), isuperior (U + 2071)
+	New design of number 5 in all instances.
+	Correction of vertical symmetry in the clear version of the letter /S
+	Correction of the weight of the tails and reduction of overshoot in the letters: /t,/j,/f and the ligatures with /f and /t
+	Rectilinear modification of / ampersand tail
+	Adjustment and alignment of the shoulder of the letter /r
+	Adjustment of curves and alignment of the letter /a italic versión
+	Ajustes en la letra /g
+	Redraw of all small numbers: superscript, numerators, denominators, and subscript
+	Redraw of all small lowercase letters.
+	Added inferior glyphs: 
+		schewainferior (U+2094), ainferior (U+2090), einferior (U+2091), hinferior (U+2095)
+		iinferior (U+ID62), kinferior (U+2096), linferior (U+2097), minferior (U+2098)
+		ninferior (U+2099), oinferior (U+2092), pinferior (U+209A), rinferior (U+ID63)
+		sinferior (U+209B), tinferior (U+209C), uinferior (U+ID64), vinferior (U+ID65)
+		xinferior (U+2093)
+	
+	Added full set of small lowercase letters (+79 glyphs) in the positions: superscript, numerators, denominators, and subscript. 
+	Small lowercase letters added to Kerning.
+	Small lowercase letters added to OpenType features: /dnom, /numr, /subs, /sups, /sinf, /frac
+	Diagonal adjustment of the positions of the small letters and numbers.
+	Adjust on the diagonal between the vertical positions of the small letters and numbers.
+	Complete reconstruction of the italics, discarding the lower curved tail in the lower case.
+	
 Update v1.708;rv1003
 	Add ink traps in critical characters.
 	Improve dimensions and hinting.
